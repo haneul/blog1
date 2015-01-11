@@ -4,13 +4,22 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://haneul.github.io/blog1/atom.xml" rel="self"/>
   <link href="http://haneul.github.io/blog1/"/>
-  <updated>2015-01-10T23:28:53-08:00</updated>
+  <updated>2015-01-10T23:37:19-08:00</updated>
   <id>http://haneul.github.io/blog1/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Seungyeop Han]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Blogging With Octopress]]></title>
+    <link href="http://haneul.github.io/blog1/blog/2015/01/10/blogging-with-octopress/"/>
+    <updated>2015-01-10T23:32:14-08:00</updated>
+    <id>http://haneul.github.io/blog1/blog/2015/01/10/blogging-with-octopress</id>
+    <content type="html"><![CDATA[<p>Is it working?</p>
+]]></content>
+  </entry>
   
 </feed>
