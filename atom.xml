@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://haneul.github.io/blog1/atom.xml" rel="self"/>
   <link href="http://haneul.github.io/blog1/"/>
-  <updated>2015-01-10T23:37:19-08:00</updated>
+  <updated>2015-01-11T19:16:12-08:00</updated>
   <id>http://haneul.github.io/blog1/</id>
   <author>
     <name><![CDATA[Seungyeop Han]]></name>
@@ -14,7 +14,7 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Blogging With Octopress]]></title>
+    <title type="html"><![CDATA[Blogging with Octopress]]></title>
     <link href="http://haneul.github.io/blog1/blog/2015/01/10/blogging-with-octopress/"/>
     <updated>2015-01-10T23:32:14-08:00</updated>
     <id>http://haneul.github.io/blog1/blog/2015/01/10/blogging-with-octopress</id>

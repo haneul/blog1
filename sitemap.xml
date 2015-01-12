@@ -7,14 +7,20 @@
   </url>
   <url>
     <loc>http://haneul.github.io/blog1/blog/archives/</loc>
-    <lastmod>2015-01-10T23:37:19-08:00</lastmod>
+    <lastmod>2015-01-11T19:16:12-08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://haneul.github.io/blog1/</loc>
-    <lastmod>2015-01-10T23:37:19-08:00</lastmod>
+    <lastmod>2015-01-11T19:16:12-08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://haneul.github.io/blog1/about/</loc>
+    <lastmod>2015-01-11T19:16:12-08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
   </url>
 </urlset>
